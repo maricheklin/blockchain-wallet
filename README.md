@@ -22,13 +22,15 @@ Ethereum keys are the same format on any network, so they should work with your 
 ## Dependencies
 
 - PHP must be installed on your operating system (any version, 5 or 7). Don't worry, you will *not* need to know any PHP.
-  Mac installation; https://www.php.net/manual/en/install.macosx.php - need to have admin access on the mac
+  Mac Installation: Need to have admin access: https://gist.github.com/karlhillx/791babda83495eab6fbf64f8a3270f86
 
 - You will need to clone the [`hd-wallet-derive`](https://github.com/dan-da/hd-wallet-derive) tool.
 
 - [`bit`](https://ofek.github.io/bit/) Python Bitcoin library.
+- pip install bit
 
 - [`web3.py`](https://github.com/ethereum/web3.py) Python Ethereum library.
+- pip install web3
 
 ## Instructions
 
