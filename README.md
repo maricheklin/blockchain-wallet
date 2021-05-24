@@ -22,7 +22,7 @@ Ethereum keys are the same format on any network, so they should work with your 
 ## Dependencies
 
 - PHP must be installed on your operating system (any version, 5 or 7). Don't worry, you will *not* need to know any PHP.
-  Mac Installation: Need to have admin access: https://gist.github.com/karlhillx/791babda83495eab6fbf64f8a3270f86
+  Mac Installation: Need to have admin access:https://www.youtube.com/watch?v=SNRQSwlOKbs - MAC INSTRUCTINS
 
 - You will need to clone the [`hd-wallet-derive`](https://github.com/dan-da/hd-wallet-derive) tool.
 
@@ -39,7 +39,7 @@ Ethereum keys are the same format on any network, so they should work with your 
 - Create a project directory called `wallet` and `cd` into it.
 
 - Clone the `hd-wallet-derive` tool into this folder and install it using the instructions on its `README.md`.
-
+ 
 - Create a symlink called `derive` for the `hd-wallet-derive/hd-wallet-derive.php` script into the top-level project
   directory, like so: `ln -s hd-wallet-derive/hd-wallet-derive.php derive`
 
